@@ -37,6 +37,6 @@ Recommendation Platform
 
 ### Wireframes
 
-![Web](./Documents/Web Layout.png)
+![Web](./Documents/WebLayout.png)
 
-![App](./Documents/App Layout.png)
+![App](./Documents/AppLayout.png)
