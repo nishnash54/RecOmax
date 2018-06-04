@@ -25,7 +25,7 @@ get_ipython().magic('matplotlib inline')
 
 # Load the data
 
-df = pd.read_csv('ratings_Beauty.csv')
+df = pd.read_csv('Data/ratings_Beauty.csv')
 
 print("Shape: %s" % str(df.shape))
 print("Column names: %s" % str(df.columns))
